@@ -14,7 +14,7 @@
 🌱 I’m currently learning ...
 I'm a {backend, frontend} developer. 
 
-> :construction: Projeto em construção :construction:
+> :construction: Projeto em construção | Project under construction :construction: 
 
 <!--
 **AlanJoabio/AlanJoabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
