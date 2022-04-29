@@ -1,8 +1,6 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
-<p> 
+ 
 # Hi, I'm Alan Joabio! 👋
-</p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlanJoabio)](https://github.com/AlanJoabio)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134)](https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134/)
@@ -12,12 +10,11 @@
 
 
 
-
-
-
 ### About me
 🌱 I’m currently learning ...
 I'm a {backend, frontend} developer. 
+
+> :construction: Projeto em construção :construction:
 
 <!--
 **AlanJoabio/AlanJoabio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
