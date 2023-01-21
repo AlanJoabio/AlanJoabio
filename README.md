@@ -15,15 +15,17 @@
 
 
 
-### About me
+### About me/Sobre em mim!
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the job market now and in the future.
 
-I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more. 
+I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more.
+
+[Tradução](#sobre-mim-em-portuquês)
 
 [Want to know more about my story](#want-to-know-more-about-my-story)
 
-[Sobre mim em Portuquês](#sobre-mim-em-portuquês)
+
 
 
 🌱 I’m currently learning :
@@ -50,7 +52,7 @@ Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquir
 
 Want to know more about my story..
 ====================================
-[Português](#português)
+[Tradução](#português)
 
 I want to share my personal and professional story, experience and experience.
 
