@@ -21,7 +21,7 @@ In addition to discovering this great transmission and interest in the area of t
 
 I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more. 
 
-[Want to know more about my story....](#Want)
+<a href="#author">Want to know more about my story..</a>
 
 [Sobre mim em Portuquês](#portuques) 
 
@@ -48,7 +48,7 @@ Além de descobrir essa grande transmissão e interesse pela área de tecnologia
 Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquirir uma nova formação profissional na área de tecnologia, a qual venho pesquisando e me identificando cada vez mais.
 
 
-Want to know more about my story.... 
+Want to know more about my story.... (#author) 
 ====================================
 [Portuquês](#portuques)
 
