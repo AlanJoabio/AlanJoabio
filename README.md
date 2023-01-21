@@ -1,7 +1,9 @@
 ![LOGO](./img/33.png)
  
 # Hi, I'm Alan Joabio! 👋
+
 <h4 align="center">
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlanJoabio)](https://github.com/AlanJoabio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alanjoabio/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134)](https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134/)
@@ -17,14 +19,16 @@
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the job market now and in the future.
 
-I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more. [Sobre mim em Portuquês](#portuques) 
+I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more. 
 
-[Want to know more about my story....](#author)
+[Want to know more about my story....](#Want)
+
+[Sobre mim em Portuquês](#portuques) 
 
 
 🌱 I’m currently learning :
 <p>
-HTML, CSS, JavaScript, Python, MongoDB, SQL, MySQL, API Rest, Bootstrap, Git, Linux, Windows, Figma, Canvas, Network security.
+HTML, CSS, JavaScript, JAVA, Python, Bootstrap, Git, Linux, Windows, Figma, Canvas, Network security.
 </p>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanJoabio&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanJoabio&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanJoabio&theme=nord_dark) |
@@ -44,8 +48,9 @@ Além de descobrir essa grande transmissão e interesse pela área de tecnologia
 Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquirir uma nova formação profissional na área de tecnologia, a qual venho pesquisando e me identificando cada vez mais.
 
 
-Want to know more about my story.... [Portuquês](#portuques)
+Want to know more about my story.... 
 ====================================
+[Portuquês](#portuques)
 
 I want to share my personal and professional story, experience and experience.
 
