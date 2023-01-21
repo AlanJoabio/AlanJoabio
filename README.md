@@ -4,10 +4,10 @@
 
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AlanJoabio)](https://github.com/AlanJoabio)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlanJoabio)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alanjoabio/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134)](https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](alanjmsq@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/alan-joabio-souza-04452a134/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/app)
 [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://alanjoabio.github.io/O-Portfolio/)](https://alanjoabio.github.io/O-Portfolio/)
 ![LICENSE MIT BADGE](https://img.shields.io/github/license/AlanJoabio/AlanJoabio)
 
@@ -23,7 +23,7 @@ I'm passionate about technology! So I chose this career, because I want to acqui
 
 <a href="#author">Want to know more about my story..</a>
 
-[Sobre mim em Portuquês](#portuques) 
+<a href="#portuques">Sobre mim em Portuquês.</a>
 
 
 🌱 I’m currently learning :
@@ -38,19 +38,20 @@ HTML, CSS, JavaScript, JAVA, Python, Bootstrap, Git, Linux, Windows, Figma, Canv
 | :-: | :-: |
 
 
-Sobre mim em Portuquês
+[Sobre mim em Portuquês](#português)
 ======================
 
 Sobre mim...
 
-Além de descobrir essa grande transmissão e interesse pela área de tecnologia, essa área permeia diversas ciências e vem se apresentando como uma carreira promissora nos tempos atuais diante do constante avanço tecnológico, e também com excelentes oportunidades no mercado de trabalho atualmente. e no futuro.
+Além de descobrir essa grande transmissão e interesse pela área de tecnologia, essa área permeia diversas ciências e vem se apresentando como uma carreira promissora nos tempos atuais diante do constante avanço tecnológico, e também com excelentes 
+ oportunidades no mercado de trabalho atualmente. e no futuro.
 
 Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquirir uma nova formação profissional na área de tecnologia, a qual venho pesquisando e me identificando cada vez mais.
 
 
-Want to know more about my story.... (#author) 
+[Want to know more about my story....](#author) 
 ====================================
-[Portuquês](#portuques)
+<a href="#portuquese">Portuquês</a>
 
 I want to share my personal and professional story, experience and experience.
 
@@ -66,7 +67,7 @@ I'm passionate about technology! So I chose this career, because I want to acqui
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the current job market. . and in the future.
 
-Português
+[Português](#portuquese)
 =========
 
 Quero compartilhar minha história, experiência e experiência pessoal e profissional.
