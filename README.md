@@ -21,9 +21,9 @@ In addition to discovering this great transmission and interest in the area of t
 
 I'm passionate about technology! So I chose this career, because I want to acquire a new professional training in the area of technology, which I've been researching and identifying with more and more. 
 
-<a href="#author">Want to know more about my story..</a>
+[Want to know more about my story](#want-to-know-more-about-my-story)
 
-<a href="#portuques">Sobre mim em Portuquês.</a>
+[Sobre mim em Portuquês](#sobre-mim-em-portuquês)
 
 
 🌱 I’m currently learning :
@@ -48,10 +48,8 @@ Além de descobrir essa grande transmissão e interesse pela área de tecnologia
 
 Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquirir uma nova formação profissional na área de tecnologia, a qual venho pesquisando e me identificando cada vez mais.
 
-
-[Want to know more about my story....](#author) 
+[Want to know more about my story..](#português)
 ====================================
-<a href="#portuquese">Portuquês</a>
 
 I want to share my personal and professional story, experience and experience.
 
@@ -67,7 +65,7 @@ I'm passionate about technology! So I chose this career, because I want to acqui
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the current job market. . and in the future.
 
-[Português](#portuquese)
+[Português]
 =========
 
 Quero compartilhar minha história, experiência e experiência pessoal e profissional.
