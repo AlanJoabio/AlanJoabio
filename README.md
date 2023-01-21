@@ -38,7 +38,7 @@ HTML, CSS, JavaScript, JAVA, Python, Bootstrap, Git, Linux, Windows, Figma, Canv
 | :-: | :-: |
 
 
-[Sobre mim em Portuquês](#português)
+Sobre mim em Portuquês
 ======================
 
 Sobre mim...
@@ -48,8 +48,9 @@ Além de descobrir essa grande transmissão e interesse pela área de tecnologia
 
 Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquirir uma nova formação profissional na área de tecnologia, a qual venho pesquisando e me identificando cada vez mais.
 
-[Want to know more about my story..](#português)
+Want to know more about my story..
 ====================================
+[Portugês](#português)
 
 I want to share my personal and professional story, experience and experience.
 
@@ -65,7 +66,7 @@ I'm passionate about technology! So I chose this career, because I want to acqui
 
 In addition to discovering this great transmission and interest in the area of technology, this area permeates several sciences and has been presenting itself as a promising career in current times in the face of constant technological advancement, and also with excellent opportunities in the current job market. . and in the future.
 
-[Português]
+Português
 =========
 
 Quero compartilhar minha história, experiência e experiência pessoal e profissional.
