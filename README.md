@@ -50,7 +50,7 @@ Sou apaixonado por tecnologia! Então escolhi essa carreira, porque quero adquir
 
 Want to know more about my story..
 ====================================
-[Portugês](#português)
+[Português](#português)
 
 I want to share my personal and professional story, experience and experience.
 
